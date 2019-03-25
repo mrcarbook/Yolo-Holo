@@ -108,6 +108,7 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="Assets\tiny-yolov2-1.2.onnx" />
+    <None Include="README.md" />
     <None Include="YoloHolo_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
